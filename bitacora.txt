@@ -36,3 +36,19 @@
 (15) Pasos añadidos a bitacora.txt  
      git add .
      git commit -m "Paso 15"
+
+(16) git branch RamaC
+(17) git checkout RamaC
+(18) Editar direccion.txt
+(19) git fetch y git branch -a para comprobar que no se ha creado esa Rama D
+     NO se ha creado asi que la creo, gti branch RamaD, git checkout RamaD
+     Subo a remoto la Rama D, git add . , git commit -m "Paso 19" y giy push -u origin RamaD
+
+(20) Creo calificacion.txt
+(21) git add . 
+     git commit -m "Paso 21"
+
+(22) git checkout RamaC
+(23) Modifico bitacora.txt
+     git add . 
+     git commit -m "Paso 23"
