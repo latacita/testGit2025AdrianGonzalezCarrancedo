@@ -11,4 +11,11 @@
 (03) Pasos añadidos a bitacora.txt 
      git add .
      git commit -m "Paso 03"
-     
+
+(04) git branch RamaA
+(05) git branch RamaB
+(06) git checkout RamaA
+(07) editar direccion.txt 
+(08) git add .
+     git commit -m "Paso 08"
+
