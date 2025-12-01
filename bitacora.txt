@@ -52,3 +52,12 @@
 (23) Modifico bitacora.txt
      git add . 
      git commit -m "Paso 23"
+
+(24) git checkout master
+(25) De manera Recursiva
+(26) git merge RamaD
+(27) git merge RamaC
+(28) git tag Conseguido
+(29) git add .
+     git commit -m "Paso 29"
+(30) git push -u origin master
