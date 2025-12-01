@@ -25,3 +25,14 @@
 (11) Editar bitacora.txt 
      git add .
      git commit -m "Paso 11"
+
+(12) git checkout master
+(13) git merge RamaA 
+     Fast-Forward
+
+(14) git merge RamaB 
+     Conflicto-Recursiva, se ha resuelto el conflicto
+
+(15) Pasos añadidos a bitacora.txt  
+     git add .
+     git commit -m "Paso 15"
