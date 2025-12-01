@@ -2,5 +2,6 @@ Centro: Universidad de Cantabria
 Calle: Los castros
 Número: 15
 CP: 39025
+CP2: 39024
 Ciudad: Santander
 Provincia: Cantabria
