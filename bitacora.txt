@@ -1,8 +1,14 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):      Gonzalez Carrancedo Adrian      %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+(01) git clone https://github.com/latacita/testGit2025AdrianGonzalezCarrancedo.git
+(02) Nombre añadido a bitacora.txt
+(03) Pasos añadidos a bitacora.txt 
+     git add .
+     git commit -m "Paso 03"
+     
