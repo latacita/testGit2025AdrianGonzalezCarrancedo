@@ -12,3 +12,8 @@
      git add .
      git commit -m "Paso 03"
      
+(09) git checkout RamaB
+(10) Editar direccion.txt 
+(11) Editar bitacora.txt 
+     git add .
+     git commit -m "Paso 11"
