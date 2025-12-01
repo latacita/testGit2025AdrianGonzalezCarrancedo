@@ -1,6 +1,6 @@
-Centro: Universidad De cantabria
+Centro: Universidad de Cantabria
 Calle: Los castros
-Número: 13
+Número: 15
 CP: 39025
 Ciudad: Santander
-Provincia: Santander
+Provincia: Cantabria
